@@ -1,7 +1,8 @@
 ## final-project
-*The repository contains the notebooks for the final project of "intro to data science" course.*
+*The repository contains the notebooks of the final project of "intro to data science" course.*
 <br>
-**Probability** - This notebook contains the full solution to the probability quastions of the final project<br>
-**Programming** - This notebook contains the answers to the the programming exercises<br>
-**Diamonds-regression** - This notebook is the notebook that contains the regression model project<br>
-**Cardiovascular-Disease-classification** - This notebook is the notebook that contains the classification model project<br>
+<br>
+**Probability** - This notebook contains an answer sheet to to the probability quastions.<br>
+**Programming** - This notebook contains an answer sheet to the the programming exercises.<br>
+**Diamonds-regression** - This notebook contains a regression model for predicting diamond prices.<br>
+**Cardiovascular-Disease-classification** -This notebook contains a classification model for predicting heart disease.<br>
